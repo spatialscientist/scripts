@@ -413,3 +413,5 @@ unset bash_prompt
 
 
 ### EOF ###
+
+## Credit also goes to the following source where I have also seen the script: https://raw.githubusercontent.com/ChrisTitusTech/scripts/master/fancy-bash-promt.sh
